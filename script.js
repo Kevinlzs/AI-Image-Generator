@@ -1,4 +1,4 @@
-const API_KEY = "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"
+const API_KEY = ""
 const submitButton = document.querySelector(".button")
 const promptValue = document.querySelector(".input")
 const img = document.querySelector(".image")

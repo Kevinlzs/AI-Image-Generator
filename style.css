@@ -13,12 +13,12 @@ body {
     margin:auto;
     font-family:monospace;
 }
-    
+
 .title-container {
     width: 850px;
     height: 100px;
     text-align: center;
-    margin-top: 20%;
+    margin-top: 10%;
     padding-top: 5%;
     font-size: 20px;
     color:greenyellow;
@@ -51,6 +51,7 @@ body {
 .image-container {
     text-align: center;
     margin-top: 20%;
+    margin-bottom: 10%;
 }
 
 .image {
